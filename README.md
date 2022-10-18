@@ -23,7 +23,7 @@ I love to read books and travelling.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about PHP, WordPress and Shopify.
-- 📫 I am just one mail away - [to touhidulsadeek at gmail dot com]
+- 📫 I am just one mail away - [touhidulsadeek at gmail dot com]
 
 
 ### Where to find me
