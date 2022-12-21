@@ -12,6 +12,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=Laravel&logoColor=white)
 
 I am a Full Stack WordPress & Shopify Expert with a huge love for WordPress, Shopify, TailwindCSS and React.js. Currently, **I'm open to work and employment opportunities**.
 
