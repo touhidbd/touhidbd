@@ -17,13 +17,13 @@
 I am a Full Stack WordPress & Shopify Expert with a huge love for WordPress, Shopify, TailwindCSS and React.js. Currently, **I'm open to work and employment opportunities**.
 
 I am the founder of [tCoderBD](https://tcoderbd.com). 
-I Actively code on WordPress & Shopify themes and plugins every day.
+I Actively code on Laravel, WordPress & Shopify themes and plugins every day.
 
-I love to read books and travelling.
+I love to read books.
 
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about PHP, WordPress and Shopify.
+- 💬 Ask me about Laravel, PHP, WordPress and Shopify.
 - 📫 I am just one mail away - [touhidulsadeek at gmail dot com]
 
 
