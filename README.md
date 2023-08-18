@@ -13,23 +13,23 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=Laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white)
 
 I am a Full Stack WordPress & Shopify Expert with a huge love for WordPress, Shopify, TailwindCSS and React.js. Currently, **I'm open to work and employment opportunities**.
 
 I am the founder of [tCoderBD](https://tcoderbd.com). 
-I Actively code on Laravel, WordPress & Shopify themes and plugins every day.
+Daily, I code on Laravel, CodeIgniter, WordPress & Shopify themes and plugins.
 
 I love to read books.
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things, and I believe that every day is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Laravel, PHP, WordPress and Shopify.
+- 💬 Ask me about Laravel, PHP, WordPress, and Shopify.
 - 📫 I am just one mail away - [touhidulsadeek at gmail dot com]
 
 
 ### Where to find me
 [![Upwork](https://img.shields.io/badge/upwork-14A801?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010111c6ff07dc9525)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBE72?style=flat-square&logo=Fiverr&logoColor=white)](https://fiverr.com/touhidbd)
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/tcoder)
 [![Behance](https://img.shields.io/badge/Behance-0056FF?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/touhidbd)
 [![Envato](https://img.shields.io/badge/Envato-81B441?style=flat-square&logo=Envato&logoColor=white)](https://themeforest.net/user/tcoderbd)
