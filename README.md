@@ -16,10 +16,10 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=Laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white)
 
-I am a Full Stack WordPress & Shopify Expert with a huge love for WordPress, Shopify, TailwindCSS, and React.js. Currently, **I'm open to work and employment opportunities**.
+Experience with WordPress Rest API, Vue.js, ReactJS, Webpack, Laravel, CodeIgniter, Shopify and WordPress theme & plugin development. Currently, **I'm open to work and employment opportunities**.
 
-I am the founder of [tCoderBD](https://tcoderbd.com). 
-Daily, I code on Laravel, CodeIgniter, WordPress & Shopify themes and plugins.
+I amn the founder of [tCoderBD](https://tcoderbd.com). 
+Daily, I code on PHP, JavaScript, WordPress themes and plugins.
 
 I love to read books.
 
