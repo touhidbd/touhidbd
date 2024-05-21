@@ -3,6 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![VueJS](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
